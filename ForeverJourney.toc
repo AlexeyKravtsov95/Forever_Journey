@@ -1,0 +1,48 @@
+
+## Interface: 16001
+## Interface-Camelot: 16001
+## Title: Forever Journey
+## Notes: A personal journey tracker for World of Warcraft: Forever
+## Author: Straider
+## Version: 0.8.0-rc.1
+## SavedVariables: ForeverJourneyDB
+
+State.lua
+Storage.lua
+Backup.lua
+JournalExport.lua
+Utils.lua
+Locale.lua
+ServerStatistics.lua
+Theme.lua
+InputVisuals.lua
+Memories.lua
+MemoryActions.lua
+Recovery.lua
+Journey.lua
+ViewModel.lua
+UI.lua
+LifetimeStatisticsUI.lua
+BackupUI.lua
+ChronicleUI.lua
+JournalExportUI.lua
+HistoryUI.lua
+QuestMilestones.lua
+HistoryExtensions.lua
+ProfessionMilestones.lua
+ProfessionHistoryExtensions.lua
+BossVictoryMilestones.lua
+ReputationMilestones.lua
+MemorableMoments.lua
+ChronicleSearch.lua
+ChronicleFilters.lua
+MemoryAnnotations.lua
+ParchmentLayer.lua
+Chapters.lua
+ChaptersUI.lua
+ChapterTimeline.lua
+ChapterMemoryPicker.lua
+Launcher.lua
+Core.lua
+Debug.lua
+Events.lua
